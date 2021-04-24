@@ -1,1 +1,2 @@
-select * from test 3
+select * from test 3 and  xhuhfdkhs
+select * from test 3 and  xhuhfdkhs
